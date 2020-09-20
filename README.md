@@ -6,10 +6,6 @@ I 💕 open source. I am not a heavy maintainer of any large libraries. I have a
 
 <!-- I do a lot of speaking on React and Svelte, teach React and TypeScript at Egghead.io and write a biweekly-ish newsletter. -->
 
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my personal blog [venkataravuri.github.io](https://venkataravuri.github.io/).
-
 ### ⚡️ A Few Quick Facts
 <ul>
 <li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
@@ -19,6 +15,10 @@ I write regular blog posts, most of which you will find on my personal blog [ven
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
 <li>🎉 Fun Fact: </li>
 </ul>
+
+### My Digital Garden 🌱
+
+I write regular blog posts, most of which you will find on my personal blog [venkataravuri.github.io](https://venkataravuri.github.io/).
 
 ##### 📕 Latest Blog Posts
 
