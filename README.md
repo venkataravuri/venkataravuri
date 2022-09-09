@@ -7,7 +7,7 @@ I 💕 open source. I am not a heavy maintainer of large libraries. I have a pas
 ### ⚡️ A Few Quick Facts
 <ul>
 <li>💬 Ping me about <strong>Multi-Tenant SaaS Architectures, High Volume, High Availability Systems, and Cloud Infrastructure.</strong>.</li>
-<li>🧐 Learning about <strong>Antifragile Software</strong>, <strong>Meta-driven Systems</strong>, and a bit of <strong>AI/ML</strong>.</li>
+<li>🧐 Learning about <strong>Antifragile Software</strong>, <strong>Metadata-driven Systems</strong>, and a bit of <strong>AI/ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/venkataravuri">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="venkataravuri.github.io">my blog</a>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
