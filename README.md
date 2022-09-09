@@ -1,19 +1,17 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-I 💕 open source. I am not a heavy maintainer of any large libraries. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to [here](https://venkataravuri.github.io/). I contribute to things as I come across issues that I think other people might struggle with.
+I 💕 open source. I am not a heavy maintainer of large libraries. I have a passion for learning and sharing my knowledge with others a public as possible. You can see a full list of what I am up to [here](https://venkataravuri.github.io/). I contribute to things as I come across issues that I think other people might struggle with.
 
 ---
 
-<!-- I do a lot of speaking on React and Svelte, teach React and TypeScript at Egghead.io and write a biweekly-ish newsletter. -->
-
 ### ⚡️ A Few Quick Facts
 <ul>
-<li>🧐 Learning about <strong>serverless architectures</strong>, <strong>distributed systems</strong>, and a bit of <strong>ML</strong>.</li>
+<li>💬 Ping me about <strong>Multi-Tenant SaaS Architectures, High Volume, High Availability Systems, and Cloud Infrastructure.</strong>.</li>
+<li>🧐 Learning about <strong>Antifragile Software</strong>, <strong>Meta-driven Systems</strong>, and a bit of <strong>AI/ML</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/venkataravuri">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="venkataravuri.github.io">my blog</a>.</li>
-<li>💬 Ping me about <strong>Multi-tenant SaaS Architectures, Highscalability systems, , and cloud stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
-<li>🎉 Fun Fact: </li>
+<li>🎉 Fun Fact: 70% Of The Coding Jobs Has Nothing To Do With Technology At All</li>
 </ul>
 
 ### My Digital Garden 🌱
