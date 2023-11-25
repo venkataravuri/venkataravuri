@@ -4,8 +4,8 @@ I 💕 blogging & open source, have passion for learning and sharing knowledge w
 
 ### ⚡️ A Few Quick Facts
 <ul>
-<li>💬 Ping me about <strong>AI/ML, highly scalable & resilient cloud-native apps and cloud infrastructure</strong>.</li>
-<li>🧐 Learning about <strong>Antifragile Software</strong>, <strong>Generative AI</strong>, and a bit of <strong>Yoga</strong>.</li>
+<li>💬 Ping me about <strong>AI/ML, MLOps, cloud-native apps and cloud computing.</strong>.</li>
+<li>🧐 Learning about <strong>Multimodel Learning</strong>, <strong>Reinforcement Learning</strong> and a bit of <strong>Yoga</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/venkataravuri">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://www.unobotics.com">my blog</a>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
