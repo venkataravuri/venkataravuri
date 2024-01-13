@@ -4,8 +4,8 @@ I 💕 fine-tune Deep Neural Network models, blogging & contribute to open-sourc
 
 ### ⚡️ A Few Quick Facts
 <ul>
-<li>💬 Ping me about <strong>AI/ML, MLOps, cloud-native apps and cloud computing.</strong>.</li>
-<li>🧐 Learning about <strong>Multimodel Learning</strong>, <strong>Reinforcement Learning</strong> and a bit of <strong>Yoga</strong>.</li>
+<li>💬 Ping me about <strong>AI/ML, MLOps, Cloud-Native apps and Cloud Computing.</strong>.</li>
+<li>🧐 Learning about <strong>Multimodality</strong>, <strong>Reinforcement Learning</strong> and a bit of <strong>Yoga</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/venkataravuri">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://www.unobotics.com">my blog</a>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
