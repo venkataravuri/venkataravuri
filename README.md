@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-I 💕 blogging & open source, have passion for learning and sharing knowledge with others as public as possible. You can see a full list of what I am up to [here](https://www.unobotics.com).
+I 💕 fine-tune Deep Neural Network models, blogging & contribute to open-source, have passion sharing knowledge with others as public as possible. You can see what I am up to [here](https://www.unobotics.com).
 
 ### ⚡️ A Few Quick Facts
 <ul>
