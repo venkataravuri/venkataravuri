@@ -13,7 +13,7 @@ I 💕 fine-tune Deep Neural Network models, blogging & contribute to open-sourc
 </ul>
 
 ### 🌱 My Digital Garden 
-I write regular 📕 blog posts, most of which you will find on my personal blog [www.UnoBOTics.com](https://www.unobotics.com).
+I write regular 📕 blog posts, most of which you will find on my personal blog [venkataravuri.github.io](https://venkataravuri.github.io).
 
 ### 🚀 Technologies I Use
 <p align="left">
