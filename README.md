@@ -1,11 +1,11 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-I 💕 fine-tune Deep Neural Network models, blogging & contribute to open-source, have passion sharing knowledge with others as public as possible. You can see what I am up to [here](https://www.unobotics.com).
+I 💕 training Deep Neural Network models, blogging & contribute to open-source, have passion sharing knowledge with others as public as possible. You can see what I am up to [here](https://www.unobotics.com).
 
 ### ⚡️ A Few Quick Facts
 <ul>
-<li>💬 Ping me about <strong>AI/ML, MLOps, Cloud-Native Apps and Cloud Computing</strong> ...</li>
-<li>🧐 Learning about <strong>Multimodality</strong>, <strong>Reinforcement Learning</strong> and a bit of <strong>Yoga</strong>.</li>
+<li>💬 Ping me about <strong>Machine Learning, Data Science and AI Agents</strong> ...</li>
+<li>🧐 Learning about <strong>Reinforcement Learning</strong> and a bit of <strong>Yoga</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/venkataravuri?tab=repositories">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://venkataravuri.github.io">my blog</a>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
