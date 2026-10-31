@@ -4,8 +4,8 @@ I 💕 training Deep Neural Network models, blogging & contribute to open-source
 
 ### ⚡️ A Few Quick Facts
 <ul>
-<li>💬 Ping me about <strong>Machine Learning, Data Science and AI Agents</strong> ...</li>
-<li>🧐 Learning about <strong>Reinforcement Learning</strong> and a bit of <strong>Yoga</strong>.</li>
+<li>💬 Building the future with <strong>Machine Learning, Data Science, and Autonomous AI Agents</strong> ...</li>
+<li>🧐 Deepening my expertise in <strong>Reinforcement Learning (RL)</strong> and a bit of <strong>Yoga</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/venkataravuri?tab=repositories">Github</a>.</li>
 <li>📝 I regulary write articles on <a href="https://venkataravuri.github.io">my blog</a>.</li>
 <li>📙 Check out my <a href="https://www.linkedin.com/in/venkata-ravuri/">resume</a>.</li>
